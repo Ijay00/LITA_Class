@@ -2,6 +2,11 @@
 
 ### Project Title: E Commerce Sales Analysis
 
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
+tools used
+data cleaning and preparation
+
 ### Project Overview
 ---
 This intends to show the sales analysis 
@@ -33,7 +38,7 @@ Primary souce of data is sales Csv and this is an open source data downloaded
 ### Data Analysis
 This is where we include some basic lines of code or queries or even some of DAX functions;
 
-'''SQL
+```SQL
 SELECT "FROM TABLES
 WHERE CONDITION = TRUE
 ---
